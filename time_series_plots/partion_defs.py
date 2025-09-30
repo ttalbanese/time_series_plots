@@ -1,0 +1,27 @@
+simulation_partitions = [
+            "17_MileP_RoG.p02.hdf",
+            "17_MileP_RoG.p05.hdf",
+            "17_MileP_RoG.p12.hdf",
+            "17_MileP_RoG.p17.hdf",
+            "17_MileP_RoG.p18.hdf",
+            "17_MileP_RoG.p19.hdf",
+            "17_MileP_RoG.p20.hdf",
+            "17_MileP_RoG.p21.hdf",
+            "17_MileP_RoG.p23.hdf",
+            "17_MileP_RoG.p24.hdf",
+            "17_MileP_RoG.p25.hdf",
+            "17_MileP_RoG.p26.hdf",
+            "17_MileP_RoG.p27.hdf",
+            "17_MileP_RoG.p28.hdf",
+            "17_MileP_RoG.p29.hdf",
+            "17_MileP_RoG.p37.hdf",
+            "17_MileP_RoG.p38.hdf",
+            "17_MileP_RoG.p50.hdf",
+            "17_MileP_RoG.p59.hdf",
+            "17_MileP_RoG.p65.hdf",
+            "17_MileP_RoG.p67.hdf",
+            "17_MileP_RoG.p69.hdf",
+            "17_MileP_RoG.p68.hdf",
+        ]
+
+plot_profile_partitions = []
